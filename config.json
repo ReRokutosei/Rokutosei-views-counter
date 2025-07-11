@@ -3,6 +3,9 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "ZH-Font-Replacement",
+    "AutoLoginGuet",
+    "picgo-plugin-localbackup",
+    "hash-checker-bat"
   ]
 }
