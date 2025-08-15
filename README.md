@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/8/10 1:54 AM UTC
+			2025/8/13 12:00 AM UTC
 		</td>
 		<td>
-			24
+			25
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/1010491084/small/year.png" height="20"> 35
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/1010491084/small/year.png" height="20"> 36
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/8/10 1:54 AM UTC
+			2025/8/13 12:00 AM UTC
 		</td>
 		<td>
-			4
+			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/969156905/small/year.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/969156905/small/year.png" height="20"> 22
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/8/10 1:55 AM UTC
+			2025/8/13 4:27 AM UTC
 		</td>
 		<td>
-			8
+			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/995396585/small/year.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/995396585/small/year.png" height="20"> 11
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/8/10 1:55 AM UTC
+			2025/8/13 4:27 AM UTC
 		</td>
 		<td>
 			4
@@ -85,7 +85,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/12 12:42 PM UTC</i></small>
+<small><i>Last updated on 2025/8/15 4:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
