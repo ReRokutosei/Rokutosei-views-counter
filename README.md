@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/10/18 2:03 AM UTC
+			2025/10/25 2:06 AM UTC
 		</td>
 		<td>
-			45
+			47
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/1010491084/small/year.png" height="20"> 63
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/1010491084/small/year.png" height="20"> 65
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/10/18 12:00 AM UTC
+			2025/10/25 2:06 AM UTC
 		</td>
 		<td>
-			148
+			153
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/969156905/small/year.png" height="20"> 443
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/969156905/small/year.png" height="20"> 450
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/10/18 2:03 AM UTC
+			2025/10/25 2:06 AM UTC
 		</td>
 		<td>
-			12
+			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/995396585/small/year.png" height="20"> 13
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/995396585/small/year.png" height="20"> 14
 		</td>
 	</tr>
 	<tr>
@@ -74,18 +74,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/10/18 12:00 AM UTC
+			2025/10/25 2:06 AM UTC
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/957512238/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/ReRokutosei/Rokutosei-views-counter/raw/master/graph/957512238/small/year.png" height="20"> 13
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/10/20 2:04 AM UTC</i></small>
+<small><i>Last updated on 2025/10/27 2:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
